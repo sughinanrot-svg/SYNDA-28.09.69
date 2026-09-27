@@ -6,4 +6,5 @@ matplotlib
 seaborn
 plotly
 reportlab
+statsmodels
 openpyxl
